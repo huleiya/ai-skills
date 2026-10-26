@@ -1,0 +1,4 @@
+interface:
+  display_name: "JD 定向简历与 PDF"
+  short_description: "结合岗位 JD、现有简历与项目代码，改写技术经历并导出精美 PDF"
+  default_prompt: "请使用 $jd-resume-tailor，结合这份 JD、我的现有简历与项目代码，完成定向改写并导出 PDF。"

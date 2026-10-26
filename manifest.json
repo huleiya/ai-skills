@@ -1,0 +1,434 @@
+[
+  {
+    "skill": "automate",
+    "source": "agents",
+    "files": 1,
+    "bytes": 35480
+  },
+  {
+    "skill": "babysit",
+    "source": "agents",
+    "files": 1,
+    "bytes": 1436
+  },
+  {
+    "skill": "baoyu-design",
+    "source": "claude",
+    "files": 199,
+    "bytes": 6769356
+  },
+  {
+    "skill": "canvas",
+    "source": "agents",
+    "files": 16,
+    "bytes": 82612
+  },
+  {
+    "skill": "clash-static-proxy",
+    "source": "claude",
+    "files": 6,
+    "bytes": 27255
+  },
+  {
+    "skill": "code-coach",
+    "source": "codex",
+    "files": 7,
+    "bytes": 41982
+  },
+  {
+    "skill": "create-hook",
+    "source": "agents",
+    "files": 1,
+    "bytes": 9186
+  },
+  {
+    "skill": "create-rule",
+    "source": "agents",
+    "files": 1,
+    "bytes": 3634
+  },
+  {
+    "skill": "create-skill",
+    "source": "agents",
+    "files": 1,
+    "bytes": 14408
+  },
+  {
+    "skill": "create-subagent",
+    "source": "agents",
+    "files": 1,
+    "bytes": 6453
+  },
+  {
+    "skill": "find-skills",
+    "source": "claude",
+    "files": 1,
+    "bytes": 5472
+  },
+  {
+    "skill": "firecrawl",
+    "source": "claude",
+    "files": 3,
+    "bytes": 20040
+  },
+  {
+    "skill": "firecrawl-agent",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2813
+  },
+  {
+    "skill": "firecrawl-build-interact",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2991
+  },
+  {
+    "skill": "firecrawl-build-onboarding",
+    "source": "claude",
+    "files": 4,
+    "bytes": 6644
+  },
+  {
+    "skill": "firecrawl-build-scrape",
+    "source": "claude",
+    "files": 1,
+    "bytes": 3155
+  },
+  {
+    "skill": "firecrawl-build-search",
+    "source": "claude",
+    "files": 1,
+    "bytes": 3147
+  },
+  {
+    "skill": "firecrawl-company-directories",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2304
+  },
+  {
+    "skill": "firecrawl-competitive-intel",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2489
+  },
+  {
+    "skill": "firecrawl-crawl",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2763
+  },
+  {
+    "skill": "firecrawl-dashboard-reporting",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2435
+  },
+  {
+    "skill": "firecrawl-deep-research",
+    "source": "claude",
+    "files": 1,
+    "bytes": 3582
+  },
+  {
+    "skill": "firecrawl-demo-walkthrough",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2294
+  },
+  {
+    "skill": "firecrawl-download",
+    "source": "claude",
+    "files": 1,
+    "bytes": 3174
+  },
+  {
+    "skill": "firecrawl-interact",
+    "source": "claude",
+    "files": 1,
+    "bytes": 4017
+  },
+  {
+    "skill": "firecrawl-knowledge-base",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2532
+  },
+  {
+    "skill": "firecrawl-knowledge-ingest",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2332
+  },
+  {
+    "skill": "firecrawl-lead-gen",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2064
+  },
+  {
+    "skill": "firecrawl-lead-research",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2400
+  },
+  {
+    "skill": "firecrawl-map",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2200
+  },
+  {
+    "skill": "firecrawl-market-research",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2310
+  },
+  {
+    "skill": "firecrawl-monitor",
+    "source": "claude",
+    "files": 1,
+    "bytes": 13491
+  },
+  {
+    "skill": "firecrawl-parse",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2804
+  },
+  {
+    "skill": "firecrawl-qa",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2426
+  },
+  {
+    "skill": "firecrawl-research-papers",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2314
+  },
+  {
+    "skill": "firecrawl-scrape",
+    "source": "claude",
+    "files": 1,
+    "bytes": 3812
+  },
+  {
+    "skill": "firecrawl-search",
+    "source": "claude",
+    "files": 1,
+    "bytes": 6894
+  },
+  {
+    "skill": "firecrawl-seo-audit",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2670
+  },
+  {
+    "skill": "firecrawl-shop",
+    "source": "claude",
+    "files": 1,
+    "bytes": 2358
+  },
+  {
+    "skill": "firecrawl-website-design-clone",
+    "source": "claude",
+    "files": 1,
+    "bytes": 7813
+  },
+  {
+    "skill": "firecrawl-workflows",
+    "source": "claude",
+    "files": 1,
+    "bytes": 4716
+  },
+  {
+    "skill": "get-job",
+    "source": "claude",
+    "files": 64,
+    "bytes": 8005793
+  },
+  {
+    "skill": "grill-me",
+    "source": "claude",
+    "files": 2,
+    "bytes": 294
+  },
+  {
+    "skill": "grilling",
+    "source": "claude",
+    "files": 2,
+    "bytes": 2162
+  },
+  {
+    "skill": "jd-resume-tailor",
+    "source": "claude",
+    "files": 5,
+    "bytes": 25991
+  },
+  {
+    "skill": "loop",
+    "source": "agents",
+    "files": 1,
+    "bytes": 3870
+  },
+  {
+    "skill": "migrate-to-skills",
+    "source": "agents",
+    "files": 1,
+    "bytes": 6435
+  },
+  {
+    "skill": "review",
+    "source": "agents",
+    "files": 1,
+    "bytes": 587
+  },
+  {
+    "skill": "review-bugbot",
+    "source": "agents",
+    "files": 1,
+    "bytes": 4921
+  },
+  {
+    "skill": "review-security",
+    "source": "agents",
+    "files": 1,
+    "bytes": 3776
+  },
+  {
+    "skill": "sdk",
+    "source": "agents",
+    "files": 1,
+    "bytes": 19563
+  },
+  {
+    "skill": "shell",
+    "source": "agents",
+    "files": 1,
+    "bytes": 867
+  },
+  {
+    "skill": "split-to-prs",
+    "source": "agents",
+    "files": 1,
+    "bytes": 2261
+  },
+  {
+    "skill": "statusline",
+    "source": "agents",
+    "files": 1,
+    "bytes": 7200
+  },
+  {
+    "skill": "supabase-server",
+    "source": "claude",
+    "files": 1,
+    "bytes": 22558
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/built-in-browser",
+    "source": "claude",
+    "files": 2,
+    "bytes": 7996
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/chrome-browser",
+    "source": "claude",
+    "files": 2,
+    "bytes": 7348
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/computer-use",
+    "source": "claude",
+    "files": 2,
+    "bytes": 10734
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/deep-research",
+    "source": "claude",
+    "files": 3,
+    "bytes": 23522
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/docs",
+    "source": "claude",
+    "files": 1,
+    "bytes": 1227
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/docx",
+    "source": "claude",
+    "files": 61,
+    "bytes": 1135585
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/get-job",
+    "source": "claude",
+    "files": 1,
+    "bytes": 15331
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/import-memory",
+    "source": "claude",
+    "files": 1,
+    "bytes": 10689
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/morning",
+    "source": "claude",
+    "files": 3,
+    "bytes": 40742
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/pdf",
+    "source": "claude",
+    "files": 12,
+    "bytes": 58692
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/pptx",
+    "source": "claude",
+    "files": 56,
+    "bytes": 1146992
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/setup-writing-style",
+    "source": "claude",
+    "files": 2,
+    "bytes": 67035
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/skill-creator",
+    "source": "claude",
+    "files": 18,
+    "bytes": 227236
+  },
+  {
+    "skill": "synced/3b346fd2-58d3-4333-b46f-756d5d1501fc_baca0e2d-6210-43fa-848e-0811b4f99b48/xlsx",
+    "source": "claude",
+    "files": 53,
+    "bytes": 1110380
+  },
+  {
+    "skill": "update-cli-config",
+    "source": "agents",
+    "files": 1,
+    "bytes": 3887
+  },
+  {
+    "skill": "update-cursor-settings",
+    "source": "agents",
+    "files": 1,
+    "bytes": 4284
+  },
+  {
+    "skill": "zenmux-model-integration",
+    "source": "claude",
+    "files": 2,
+    "bytes": 15761
+  }
+]

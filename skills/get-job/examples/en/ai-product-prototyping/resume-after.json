@@ -1,0 +1,111 @@
+{
+  "locale": "en",
+  "example": {
+    "fictional": true,
+    "scenario_date": "January 2026",
+    "source_of_truth": "source-facts.md",
+    "target_role": "AI Product Prototyping Intern"
+  },
+  "name": "Candidate Name",
+  "contact": "City, State | candidate.email@example.com | 000-000-0000",
+  "objective": "AI product prototyping candidate with experience turning event-operations friction into scoped workflows, structured data, and testable web demos. Comfortable using AI-assisted implementation while remaining responsible for problem definition, product decisions, testing, and acceptance criteria.",
+  "sections": [
+    {
+      "title": "Education",
+      "entries": [
+        {
+          "title": "General University — Main Campus",
+          "meta": "Expected Spring 2026",
+          "subtitle": "B.A. in Business Analytics and Communication | Minor in Data Analytics and Digital Media | GPA: 3.70",
+          "bullets": [
+            "Relevant coursework: Business Statistics, Consumer Insights, Digital Product Strategy, Professional Communication"
+          ],
+          "evidence_ids": ["EDU-1", "EDU-2", "EDU-3", "EDU-4", "EDU-5", "EDU-6"]
+        }
+      ]
+    },
+    {
+      "title": "Core Project",
+      "entries": [
+        {
+          "title": "EventEase — Campus Event Registration and Check-in Web Demo",
+          "meta": "2026",
+          "subtitle": "Product Design and AI-assisted Prototyping | Locally runnable demo",
+          "bullets": [
+            "Turned recurring campus-event friction—scattered registration, manual check-in, and rebuilt attendance records—into one focused workflow for registration, check-in, attendance review, and CSV export.",
+            "Defined the core data model around event, participant, signup_status, and check_in_time, then mapped those fields to forms, stored records, status changes, and the export.",
+            "Used AI-assisted implementation for pages, routes, and lightweight storage while directing workflow scope, field selection, test cases, acceptance criteria, and functional review.",
+            "Added QR-based check-in to avoid an app download and a CSV attendance export for organizers; documented QR-sharing, permissions, and production infrastructure as unresolved limitations.",
+            "Ran small-scope tests with classmates and student event organizers, then clarified the duplicate-registration error and added a visible check-in success state based on observed confusion."
+          ],
+          "bullet_ids": ["P1-B1", "P1-B2", "P1-B3", "P1-B4", "P1-B5"],
+          "evidence_ids": ["EXP-3", "EXP-4", "PROJ-1", "PROJ-2", "PROJ-3", "PROJ-4", "PROJ-5", "PROJ-6", "PROJ-7", "PROJ-8", "PROJ-9", "PROJ-10"]
+        }
+      ]
+    },
+    {
+      "title": "Relevant Experience",
+      "entries": [
+        {
+          "title": "Marketing Operations Intern",
+          "meta": "Summer 2024–Present",
+          "subtitle": "User Feedback and Coordination Support",
+          "bullets": [
+            "Organized user feedback, task status, messages, and operating notes so recurring workflow issues were easier for the team to review.",
+            "Coordinated follow-ups with project and content teammates, keeping open items and handoffs visible."
+          ],
+          "bullet_ids": ["E1-B1", "E1-B2"],
+          "evidence_ids": ["EXP-1", "EXP-2"]
+        },
+        {
+          "title": "Campus Program Assistant",
+          "meta": "January 2025–Present",
+          "subtitle": "Event Operations and Participant Support",
+          "bullets": [
+            "Supported event registration, participant questions, and manual check-in; used those observations to define the workflow problem explored in EventEase."
+          ],
+          "bullet_ids": ["E2-B1"],
+          "evidence_ids": ["EXP-3", "EXP-4"]
+        },
+        {
+          "title": "Research Assistant, Student Business Lab",
+          "meta": "Summer 2023",
+          "subtitle": "Survey Data and Visual Reporting",
+          "bullets": [
+            "Cleaned survey data, created simple charts, and presented a short class report, building a foundation in structured information and clear communication."
+          ],
+          "bullet_ids": ["E3-B1"],
+          "evidence_ids": ["EXP-5"]
+        },
+        {
+          "title": "Content Creator",
+          "meta": "Ongoing",
+          "subtitle": "Explanatory Content",
+          "bullets": [
+            "Created explainers about career topics, campus resources, and digital tools, translating unfamiliar information into clear, audience-friendly guidance."
+          ],
+          "bullet_ids": ["E4-B1"],
+          "evidence_ids": ["EXP-6"]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "type": "skills",
+      "items": [
+        {
+          "category": "Product and Prototyping",
+          "content": "Problem framing, workflow scoping, user flows, field design, test cases, acceptance criteria, and prototype iteration"
+        },
+        {
+          "category": "AI-assisted Implementation",
+          "content": "Prompt-guided coding, basic frontend/backend decomposition, lightweight data storage, debugging, and functional review"
+        },
+        {
+          "category": "Tools and Languages",
+          "content": "Excel, Google Sheets, PowerPoint, basic Python, simple database tools; English and Mandarin Chinese"
+        }
+      ]
+    }
+  ]
+}

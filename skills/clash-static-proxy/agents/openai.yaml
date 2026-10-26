@@ -1,0 +1,5 @@
+interface:
+  display_name: "Clash 静态住宅代理"
+  short_description: "配置住宅代理或加密 DNS，识别订阅、持久化并验证生效"
+  default_prompt: "使用 $clash-static-proxy 将我提供的静态住宅 IP 配置到当前 Clash 订阅和所有普通代理组。"
+

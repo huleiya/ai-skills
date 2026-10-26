@@ -1,0 +1,25 @@
+{
+  "name": "排版示例",
+  "target": "Java / AI 应用开发工程师",
+  "contact": ["candidate@example.com", "北京 / 上海", "示例信息"],
+  "summary": "本页仅展示版式与文字层级，全部经历为虚构样例，不代表使用者的实际背景。",
+  "sections": [
+    {"title": "专业技能", "items": [{"bullets": [
+      {"label": "后端开发", "text": "Java、Spring Boot、SQL；围绕接口、权限、数据持久化与异常处理组织业务服务。"},
+      {"label": "AI 应用", "text": "展示 RAG、工具调用、流式输出与任务恢复等技术关键词的排版方式。"}
+    ]}]},
+    {"title": "项目经历", "items": [
+      {"title": "知识检索助手（虚构样例）", "subtitle": "项目研发", "period": "20XX.03 - 20XX.06", "stack": "Java / Spring Boot / PostgreSQL / pgvector", "description": "面向文档查询场景，展示业务背景、技术栈与工程实现的层次。", "bullets": [
+        {"label": "检索与引用", "text": "按文档导入、分块、向量化、检索和引用组织链路，展示如何把技术实现与用户可理解的功能结果关联。"},
+        {"label": "访问边界", "text": "在服务入口验证身份，对文档查询施加用户范围约束，展示权限校验如何融入业务描述。"},
+        {"label": "失败处理", "text": "围绕无检索结果、上游异常和连接中断设计返回状态，展示工程质量相关条目的表达。"}
+      ]},
+      {"title": "图像创作工作台（虚构样例）", "subtitle": "协作项目", "period": "20XX.07 - 20XX.09", "stack": "TypeScript / React / HTTP API", "description": "展示真实协作类项目在简历中的位置与信息密度。", "bullets": [
+        {"label": "交互闭环", "text": "围绕任务创建、进度反馈和结果展示组织页面流程，使项目描述同时体现功能目标与技术手段。"},
+        {"label": "联调验证", "text": "将正常、超时和重复请求纳入接口联调清单，说明如何用验证过程支撑功能交付。"}
+      ]}
+    ]},
+    {"title": "实习经历", "items": [{"title": "示例科技企业", "subtitle": "后端开发实习", "period": "20XX.01 - 20XX.03", "bullets": ["此处展示实习职责的排版；正式使用时必须替换为原简历中经过确认的经历。"]}]},
+    {"title": "教育背景", "items": [{"title": "示例大学", "subtitle": "软件工程 / 硕士", "period": "20XX - 20XX"}]}
+  ]
+}

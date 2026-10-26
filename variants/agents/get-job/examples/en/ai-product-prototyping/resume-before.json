@@ -1,0 +1,100 @@
+{
+  "locale": "en",
+  "example": {
+    "fictional": true,
+    "scenario_date": "January 2026",
+    "source_of_truth": "source-facts.md"
+  },
+  "name": "Candidate Name",
+  "contact": "City, State | candidate.email@example.com | 000-000-0000",
+  "objective": "",
+  "sections": [
+    {
+      "title": "Education",
+      "entries": [
+        {
+          "title": "General University — Main Campus",
+          "meta": "Expected Spring 2026",
+          "subtitle": "B.A. in Business Analytics and Communication | Minor in Data Analytics and Digital Media | GPA: 3.70",
+          "bullets": [
+            "Relevant coursework: Business Statistics, Consumer Insights, Digital Product Strategy, Professional Communication"
+          ],
+          "evidence_ids": ["EDU-1", "EDU-2", "EDU-3", "EDU-4", "EDU-5", "EDU-6"]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "type": "skills",
+      "items": [
+        {
+          "category": "General",
+          "content": "Communication, teamwork, note taking, planning support, and documentation"
+        },
+        {
+          "category": "Tools",
+          "content": "Excel, Google Sheets, PowerPoint, basic Python, simple database tools, and basic demo pages"
+        },
+        {
+          "category": "Languages",
+          "content": "English and Mandarin Chinese"
+        }
+      ]
+    },
+    {
+      "title": "Professional Experience",
+      "entries": [
+        {
+          "title": "Marketing Operations Intern",
+          "meta": "Summer 2024–Present",
+          "bullets": [
+            "Helped collect user feedback and keep track of tasks, messages, and operating notes.",
+            "Worked with project and content teammates to follow up on open items."
+          ],
+          "evidence_ids": ["EXP-1", "EXP-2"]
+        },
+        {
+          "title": "Campus Program Assistant",
+          "meta": "January 2025–Present",
+          "bullets": [
+            "Helped with event sign-up and check-in for participants.",
+            "Answered questions during campus programs."
+          ],
+          "evidence_ids": ["EXP-3", "EXP-4"]
+        },
+        {
+          "title": "Research Assistant, Student Business Lab",
+          "meta": "Summer 2023",
+          "bullets": [
+            "Helped clean survey data and make simple charts.",
+            "Prepared a short report and presented it in class."
+          ],
+          "evidence_ids": ["EXP-5"]
+        },
+        {
+          "title": "Content Creator",
+          "meta": "Ongoing",
+          "bullets": [
+            "Made explanatory content about career topics, campus resources, and digital tools."
+          ],
+          "evidence_ids": ["EXP-6"]
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "entries": [
+        {
+          "title": "Event Sign-up Tool — AI Coding Project",
+          "meta": "2026",
+          "bullets": [
+            "Built a locally runnable web demo for event sign-up and check-in.",
+            "Used AI coding tools to make pages, forms, routes, and lightweight data storage.",
+            "Added an attendance list and CSV attendance export."
+          ],
+          "evidence_ids": ["PROJ-1", "PROJ-2", "PROJ-5", "PROJ-8"]
+        }
+      ]
+    }
+  ]
+}

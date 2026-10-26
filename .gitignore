@@ -1,0 +1,13 @@
+**/.git/
+**/node_modules/
+**/__pycache__/
+**/.venv/
+**/.pytest_cache/
+*.env
+*.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.db
