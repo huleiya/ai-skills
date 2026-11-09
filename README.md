@@ -16,7 +16,7 @@
 ```sh
 git clone https://github.com/huleiya/ai-skills.git ~/.claude/ai-skills
 cd ~/.claude/ai-skills
-python scripts/sync-skills.py install jd-resume-tailor
+python scripts/sync-skills.py install repo-to-resume-tailor
 ```
 
 在另一台设备使用前，先检查仓库工作区；干净时拉取，再安装需要的技能：
@@ -24,7 +24,7 @@ python scripts/sync-skills.py install jd-resume-tailor
 ```sh
 git status --short
 git pull --ff-only origin main
-python scripts/sync-skills.py install jd-resume-tailor
+python scripts/sync-skills.py install repo-to-resume-tailor
 ```
 
 同步脚本支持一次指定多个技能名。仅同步指定技能，覆盖前备份不同的文件到
@@ -40,15 +40,15 @@ cd ~/.claude/ai-skills
 git switch main
 git pull --ff-only origin main
 git switch -c skill/update-resume
-python scripts/sync-skills.py collect jd-resume-tailor
+python scripts/sync-skills.py collect repo-to-resume-tailor
 git diff
-git add -- skills/jd-resume-tailor
+git add -- skills/repo-to-resume-tailor
 git commit -m "feat: 更新简历改写技能"
 git switch main
 git pull --ff-only origin main
 git merge --no-ff skill/update-resume
 git push origin main
-python scripts/sync-skills.py install jd-resume-tailor
+python scripts/sync-skills.py install repo-to-resume-tailor
 ```
 
 如修改源是 Codex 或 Workbuddy，回收时分别加 `--source codex` 或
