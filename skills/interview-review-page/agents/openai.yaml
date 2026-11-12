@@ -1,6 +1,6 @@
 interface:
   display_name: "面试逐题复盘"
-  short_description: "将面试转写生成分析页面与逐题复盘，按结论、机制、取舍、数据优化回答"
-  default_prompt: "使用 $interview-review-page 分析这份面试转写，生成报告页面和 post-interview.md，并按结论、机制、取舍、数据逐题优化回答。"
+  short_description: "将面试转写生成 PDF 分析报告与逐题复盘，按结论、机制、取舍、数据优化回答"
+  default_prompt: "使用 $interview-review-page 分析这份面试转写，生成 PDF 分析报告和 post-interview.md，并按结论、机制、取舍、数据逐题优化回答。"
 policy:
   allow_implicit_invocation: true
